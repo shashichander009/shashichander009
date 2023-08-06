@@ -1,7 +1,4 @@
 - 👋  Hi, I’m Shashi
-- 👀  I’m interested in ...devops,automation and data security
-- 🌱  I’m currently learning ...Java,k8 and Docker
-- 💞️  I’m looking to collaborate on ...open source project 
 - 📫  How to reach me ...@devzoy
 
 <!---
