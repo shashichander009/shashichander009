@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shashi
 
 🚀 **Backend Engineer** | **Fintech Infra Specialist**  
-💼 Building scalable financial infrastructure @ **Razorpay** for 4+ years  
+💼 Building scalable financial infrastructure @ **Razorpay** for 3+ years  
 
 ---
 
