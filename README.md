@@ -16,7 +16,7 @@
 
 ### 💡 Passion
 
-I'm driven by the challenge of crafting **robust, reliable, and scalable systems** that power India’s digital economy. I enjoy solving real-world fintech problems at scale — from APIs to ledgers.
+I'm driven by the challenge of crafting **robust, reliable, and scalable systems** that power India’s digital economy.
 
 ---
 
