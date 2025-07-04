@@ -1,33 +1,26 @@
 # 👋 Hi, I'm Shashi
 
-🚀 **Backend Engineer** | **Fintech Infra Specialist**  
-💼 Building scalable financial infrastructure and solving complex challenges for 4+ years  
+🚀 **Backend Engineer** 
+🛠️ 4+ years building scalable systems in **payments, banking & ops**
 
 ---
 
-### 🛠️ What I Do
+### 💼 What I Bring
 
-- 🏦 Deep expertise in India’s **payments & banking ecosystem**  
-- ⚙️ Design & develop **high-performance backend systems**  
-- 🔗 Cross-functional background in **Banking**, **EdTech**, and **Operations**  
-- 📰 Featured in *Medianama*, *The New Indian Express*, *The Print*, *The News Minute*
-
----
-
-### 💡 Passion
-
-I'm driven by the challenge of crafting **robust, reliable, and scalable systems** that power India’s digital economy.
+- Deep knowledge of India’s **financial ecosystem**  
+- Designed **high-performance backend infra** at scale  
+- Cross-domain experience: **Banking**, **EdTech**, **Ops**  
+- Featured in *Medianama*, *The Print*, *TNIE*, *News Minute*
 
 ---
 
-### 📫 Let's Connect
+### 💡 What Drives Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/shashisah/)
-- 🧠 Ask me about backend infra, payment systems, or transitioning into tech from non-tech backgrounds.
+Building **robust, reliable systems** that move India’s digital economy forward.
 
 ---
 
-<!---
-shashichander009/shashichander009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/shashisah/)  
+*Ask me about backend infra, payments, or switching into tech*
